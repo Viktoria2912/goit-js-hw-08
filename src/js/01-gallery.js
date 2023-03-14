@@ -22,5 +22,3 @@ let gallery = new SimpleLightbox('.gallery a', {
   captionsData: 'alt',
   fadeSpeed: 250,
 });
-
-gallery.on();
